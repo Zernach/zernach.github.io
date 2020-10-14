@@ -1,44 +1,154 @@
-Solar Theme for Jekyll
-======================
+![Ryan Zernach Logo](https://ryan.zernach.com/wp-content/uploads/2019/10/project_20190907_181208-e1583159691592.png)
 
-A stylish theme for [Jekyll](http://jekyllrb.com/) blogs, based on the [Solarized](http://ethanschoonover.com/solarized) color palette.
+*****
+*****
 
-![Screenshot](http://i.imgur.com/UnnRhkt.png)
+# 👤 Ryan Zernach
+# ✉️ Ryan@Zernach.com
+# 🤖 Data Science Software Engineer
+# 🇺🇸 Remote, Jasper, Georgia, United States
 
+[<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_com_Button.png" alt="alt text" width="260" height="79">](https://ryan.zernach.com)
+[<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Linkedin_Profile.png" alt="alt text" width="260" height="79">](https://linkedin.com/in/zernach)
 
-Features
--------
+[<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Github_Account.png" alt="alt text" width="260" height="79">](https://github.com/zernach)
+[<img src="https://ryan.zernach.com/wp-content/uploads/2020/04/Ryan_Zernach_Official_Resume.png" alt="alt text" width="260" height="79">](https://ryan.zernach.com/wp-content/uploads/Ryan_Zernach_Resume_July_2020.pdf)
 
-* **Two color schemes** — One for Solarized Dark and one for Solarized Light. Just swap the reference to the `colors-dark.css` file with `colors-light.css` if you don't like light-on-dark.
-* **Linkblog support** — Solar will turn your post title into an external link if you add `external-url: http://example.org` to a post's YAML front matter.
-* **Responsive Design** — Solarized adapts to fit any screen size.
+*****
+*****
+# TECH STACK
+*****
+*****
 
+### Quickly Learns New Tools & Techniques
 
-Installation
---------------
+> * Scikit-Learn / Machine Learning Engineering
+> * Natural Language Processing / Spacy
+> * Visualizations / Plotly / MatPlotLib
+> * AWS Certified Cloud Practitioner
+> * Python Programming Language
+> * AWS Elastic Beanstalk / Heroku
+> * Pipenv / Virtual Environments
+> * Tensorflow Developer / Keras
+> * SQL / PostgreSQL / NoSQL 
+> * Amazon RDS / TablePlus
+> * Command Line Terminal
+> * Docker Containerization
+> * DataRobot AutoML
+> * Flask / FastAPI
+> * Github Workflow
+> * Pandas & Numpy
+> * Big Data Analytics
+> * Tableau / Power BI
+> * JavaScript / HTML / CSS
+> * Dash Core Components
+> * Django Web Development
+> * Wordpress Web Development
+> * Extract Transform Load (ETL)
+> * Data Lakes / Data Warehouses
+> * Figma Designing & Prototyping
+> * Software Development Life Cycle (SDLC)
+ 
+ 
+*****
+*****
+# [PORTFOLIO PROJECTS](https://ryan.zernach.com/portfolio/)
+*****
+*****
 
-There are two ways to use Solar. You can either clone-and-go, copying the repository and tweaking the contents to taste, or you can cherry-pick the files you want and integrate them into an existing Jekyll instance. 
+### Links to Additional Details in Project Titles
 
-If you're starting a new blog, you want to clone-and-go. Just `git clone https://github.com/redwallhp/solar-theme-jekyll.git`, make any changes you want to the template, pages or `_config.yml` and start blogging with Jekyll. Easy.
+## [Better Reads](https://ryan.zernach.com/portfolio/readrr-a-platform-to-discover-track-and-share-new-books/) — A Platform for Readers to Track, Share, and Discover New Books
 
-If you're wanting to replace the theme of an existing Jekyll blog, either option should work. If you want to replace files individually, the files and directories you want to make sure to copy are:
+> * Used Agile & Scrum methodologies to iteratively deploy Natural Language Processing (NLP) models
+> * Practiced CI/CD via blue/green RESTful Flask microservices on AWS EB to facilitate JSON post requests
+> * Launched and managed a PostgreSQL instance on AWS RDS to store millions of GoogleBooks data
 
-1. `_layouts`
-2. `archives`
-3. `assets`
-4. `feed.xml`
-5. `index.xml`
+## [Flight Prices](https://ryan.zernach.com/portfolio/airline-price-predictor-how-are-flight-prices-calculated/) — Airline Pricing Analysis and Interactive Pricing User-Interface
 
-You'll also want to compare Solar's `_config.yml` with your own, making any appropriate changes.
+> * Built front-end user interface with Flask for user to interact w/ a predictive machine learning model
+> * Tediously gathered 27M rows of data, wrangled/cleaned to 9M, uploaded data to Kaggle
+> * As a data analyst, I generated statistical analyses, distribution charts, and business intelligence insights
 
+## [Brain Power](https://ryan.zernach.com/portfolio/brainpower-the-future-of-communicating-with-technology/) — Using Machine Learning and an EEG Device to Control Technology
 
-Demo
--------
+> * Built an application for the user to control light switches & thermostats with their brain
+> * Collected data from an EEG device and used Scikit-Learn to train a predictive model
+> * Deployed back-end Python get request API w/ Flask: communicate w/ EEG device, detect brain patterns
 
-You can see a demo of Solar [right here on GitHub Pages.](http://mattvh.github.io/solar-theme-jekyll/)
+## [Spotify Music](https://ryan.zernach.com/portfolio/spotify-song-suggester-which-songs-are-most-similar-to-your-favorites/) — Recommends New Music Based on Your Favorite Songs
 
+> * Connected with Spotify’s API to harvest data (and metadata) about the songs in their database
+> * Built back-end Python API’s (get and post requests) to return predicted songs data to front-end
 
-License
----------
+## [Global Glaciers](https://ryan.zernach.com/portfolio/global-glaciers-where-on-earth-are-they-located/) —Geographic Visualizations of the Locations of Earth’s Glaciers
 
-GPLv2 or higher
+> * Data exploration, story-telling with data, and unique data visualizations
+> * Combined data science with visual communication, moving GIF files, and graphic design
+
+*****
+*****
+# EDUCATION
+*****
+*****
+
+### Data Science Software Engineering, August 2019 – August 2020
+#### Lambda School, Remote, San Francisco, CA
+> ●	**Data Engineering** — Completed a deep dive into Data Engineering, working with databases, back-end API's, big data, productization, and continuous integration & > deployment.
+> 
+> ●	**Software Engineering** — Served as a data scientist on remote development teams via Slack, Zoom, Notion, and Trello alongside UX designers, web developers, and iOS developers to bring projects to fruition.
+> 
+> ●	**Machine Learning** — Gained hands-on experience by engaging with machine learning and being able to understand unsupervised learning, natural language processing, & neural networks.
+> 
+> ●	**Statistical Analysis** — Developed a solid foundation of analytical and predictive statistics, including linear algebra, linear regression, hypothesis testing, and storytelling with data.
+> 
+> ●	**Computer Science** — Learned first-hand about how various data structures (hash tables, graphs, BST’s, etc.) can optimize runtime complexity, classic algorithmic paradigms, and computer architecture.
+> 
+### Computer Science & Mathematics, August 2011 – December 2012
+#### Georgia Southern University, Statesboro, GA
+> ●	Calculus I, Calculus II, Calculus III, Statistics, Data Structures, Programming Principles I, Programming Principles II, Discrete Mathematics, Ethics of Computers in Society
+> 
+
+*****
+*****
+# CERTIFICATIONS
+*****
+*****
+
+> •	[DataRobot 10x Data Science AutoML](https://ryan.zernach.com/data-robot-10x-data-science-academy-certification-guide/), September 2020
+> 
+> •	[TensorFlow Developer](https://ryan.zernach.com/tensorflow-developer-certification-study-guide/), July 2020
+> 
+> •	[AWS Cloud Practitioner](https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/), June 2020
+
+*****
+*****
+# EXPERIENCE
+*****
+*****
+
+### Vanderbilt University, Teaching Assistant: Data Visualizations
+##### Part-Time, Remote, September 2020 – Present
+
+### Trilogy Education, Data Science Tutor & Grader
+##### Part-Time, Remote, August 2020 – Present
+
+### instaSod.com, CustomizedChristmasLights.com, Small Business Owner (Self Employed)
+##### Full-Time, October 2015 – January 2019, 3 yrs 4 mos
+* **Data Management** — automation, invoicing, client management, Google Analytics
+* **Professional Sales** — Generated $450k+ gross sales over the course of three years
+* **Designer** — websites, systems, processes, graphics, digital landscapes, sales proposals
+* **Lessons Learned** — the experience of managing my own businesses has shaped my mindset:
+ 
+> * Customer/User/Client Centered Mindset
+> * Ability to Ask the Right Questions
+> * Desire to Never Stop Learning
+> * Intuition to Set Goals/Plans
+> * Clarity of Communication
+> * Team-Building Aptitude
+> * Humility to Ask for Help
+> * Results-Driven Attitude
+> * Disciplined & Focused
+> * Critical Thinking Skills
+> * Capacity to Research
+> * Task Management
