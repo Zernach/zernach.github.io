@@ -14,73 +14,74 @@
 *****
 
 > ### Quickly Learns New Tools & Techniques
-> * iOS / Android Mobile Apps (React Native)
-> * Creating & Managing Endpoints / API’s
-> * Websites in React / JS / HTML / CSS
-> * GraphQL, SQL, & NoSQL Databases
+> * React Native Mobile Apps (iOS & Android)
+> * TypeScript / React Web / HTML / CSS
+> * React Native CLI / Expo CLI
+> * XCode / Android Studio
+> * Back-End API’s & Endpoints
+> * GraphQL, SQL, NoSQL Databases
+> * Python & Machine Learning
+> * AWS / Google Cloud / Firebase / Azure
+> * Git Version Control / CI / CD / FastLane
+> * Custom CLI Generators & Bash Scripts
+> * NodeJS / NextJS /  JavaScript / ES6+
 > * Dashboards & Data Visualizations
-> * CI / CD via Github / Gitlab / Expo
-> * Serverless Lambda Functions
-> * Typescript JS & Node.js
-> * Machine Learning Pro
-> * Google Cloud & AWS
-> * Webscraping Wizard
-> * Cloud-Computing
-> * Fluent in Python
-> * Jest Unit Tests
-> * CLI Generators
+> * Unit Tests & Integration Tests
+> * Webscraping Datasets
 > * and more...
- 
- 
+
+
 *****
 *****
-# PORTFOLIO PROJECTS [(View Portfolio Site)](https://ryan.zernach.com/portfolio/)
+# EXPERIENCE
 *****
 *****
 
-> ### [Marriage DAO](https://github.com/Zernach/marriage-dao-mobile) — iOS/Android Blockchain React Native App Developed at the Miami Hack Week 2023 Hackathon
-> * Built-in @WalletConnect for users to be able to login to the mobile app using one of dozens of web3 wallet providers
-> * Leveraged API for users to create blockchain marriage contracts on the Ethereum/Polygon Blockchain network
-> * As part of the hackathon, we had five days to complete this project, and we also created a React website
+> ### ● [Demosphere](https://demosphere.com/)
+> React Native Mobile App Developer • Full-Time • Remote • March 2022 - Present
+> * Re-engineered the app’s architecture using CLI generators
+> * Oversaw app’s design, development, testing, and publishing
+> * Integrated group chat features, push notifications, & calendar sync
+> * Overhauled the UI/UX, performance, and core functionality of the app
+> * Generated reusable hooks, scripts, components, & screens
+> * Led and mentored a junior React Native team
+> * Decreased the app’s overall loading time by 90%
+> * Improved efficiency by reducing number of API calls 
+> * Transitioned the codebase from Javascript to Typescript
+> * Re-wrote npm/yarn packages using raw React Native to slim down dependencies
+> * Published updates to the Apple and Google app stores
+> * Modernized and maintained newest React Native & Expo versions
+> * Evaluated Google Crashlytics to further improve stability & performance
+> * Version 2.0 release date is June 2023
 > 
-> ### [Finequities App](https://ryan.zernach.com/finequities/) — FinTech Startup Cross Between Robinhood & Facebook (Social-Trading App)
-> * Connected with Paid Third-Party API's to place stock/crypto market orders & fetch live prices
-> * Developed the Copy Portfolio process, allowing investors to directly copy another user’s investments
-> * Implemented design overhauls to greatly improve the user’s social network experience
 > 
-> ### [Landscape Supply App](https://landscapesupply.app/) — iOS/Android App & Online Web Dashboard to Buy/Sell Landscape Supplies
-> * For 3-months part-time, I wrote the iOS/Android app in React Native & built the web dashboard
-> * Used Python/Flask & HTML/JS/CSS to build the web dashboard and back-end api's
-> * Hosted the cloud infrastructure & authentication for this project on the Google Cloud Platform
+> ### ● [Finequities](https://finequities.com/)
+> React Native Mobile App Developer & Back-End API's Developer • Full-Time Contract • Remote • October 2021 - February 2022 • 5 months
+> * Managed front-end, custom back-end cloud functions, and authentication endpoints
+> * Integrated various APIs, including: bank accounts, stocks, and cryptocurrencies
+> * Wrote the data visualizations logic for viewing the performance of stocks & crypto
+> * Built social network features: chat, user profile, posts, likes, emojis, and comments 
+> * Constructed core functionality: copy portfolio, trending investors, and popular stocks 
+> * Custom-built a companion admin web dashboard to monitor the mobile app’s performance
 > 
-> ### [ADP Gym App](https://ryan.zernach.com/client-customer-management-manager-organizer-mobile-iphone-ios-android-app-tool-for-gym-trainers-training-club/) — Used for Gym Trainers to to Track their Member’s Sessions/Payments
-> * Listened to client, and then designed and developed the cloud infrastructure for this project
-> * Designed and developed this Typescript React Native Expo mobile app in nine weeks (part-time)
-> * Custom-built a companion Python Flask web app for gym members to securely pay their trainers
+> ### ● [Archlife Industries](https://archlife.org/)
+> React & React Native Developer • Freelance Contracts • Remote • February 2020 - March 2022 • 2 years, 2 months
+> * Designed, developed, and published three iOS/Android social networks
+> * Created a fitness iOS/Android app for managing gym sessions and making payments
+> * Refined an iPad React Native app to improve the map’s performance and fix bugs
+> * Built websites for clients and taught them about long-term website maintenance
 > 
-> ### [Better Reads App](https://ryan.zernach.com/portfolio/readrr-a-platform-to-discover-track-and-share-new-books/) — iOS App w/ Machine Learning for Readers to Track, Share, & Discover New Books
-> 
-> * Used Agile & Scrum methodologies to iteratively deploy Natural Language Processing (NLP) models
-> * Practiced CI/CD via blue/green RESTful Flask microservices on AWS EB to facilitate JSON post requests
-> * Launched & managed a PostgreSQL instance on AWS RDS to store millions of GoogleBooks data
-> 
-> ### [Flight Prices](https://ryan.zernach.com/portfolio/airline-price-predictor-how-are-flight-prices-calculated/) — Airline Pricing Analysis & Interactive Pricing User-Interface
-> 
-> * Built front-end user interface with Flask for user to interact w/ a predictive machine learning model
-> * Tediously gathered 27M rows of data, wrangled/cleaned to 9M, uploaded data to Kaggle
-> * As a data analyst, I generated statistical analyses, distribution charts, and business intelligence insights
-> 
-> ### [Brain Power](https://ryan.zernach.com/portfolio/brainpower-the-future-of-communicating-with-technology/) — Using Machine Learning & an EEG Device to Control Technology
-> 
-> * Built an application for the user to control light switches & thermostats with their brain
-> * Collected data from an EEG device and used Scikit-Learn to train a predictive model
-> * Deployed back-end Python get request API w/ Flask: communicate w/ EEG device, detect brain patterns
-> 
-> ### [Spotify Music](https://ryan.zernach.com/portfolio/spotify-song-suggester-which-songs-are-most-similar-to-your-favorites/) — Recommends New Music Based on Your Favorite Songs
-> 
-> * Connected with Spotify’s API to harvest data (and metadata) about the songs in their database
-> * Built back-end Python recommendation engine and API’s (get & post requests) to return predicted songs data to front-end
+> ### ● [EdX / Trilogy Education](https://www.trilogyed.com/)
+> Data Science Tutor for University Students • Part-Time • Remote • October 2019 - February 2021 • 1 year, 5 months
+> * Taught over 900 college students JavaScript, HTML, CSS, Python, dashboards, databases, API’s, & machine learning
+> * Managed a busy schedule of remotely teaching 30+ students per week for ~60 minutes per lesson
 
+> 
+> ### ● [Vanderbilt University](https://linkedin.com/in/zernach)
+> Teaching Assistant: Data Visualizations • Part-Time • Remote • October 2019 - February 2021 • 6 months
+> * I was remotely contracted for six months to assist a group of (30) Vanderbilt University students through an intense, 6-month bootcamp-style curriculum of learning how to build websites, dashboards, data visualizations, databases, & machine learning models.
+
+ 
 *****
 *****
 # EDUCATION
@@ -89,12 +90,10 @@
 
 > ### Data Science Software Engineering
 > #### Lambda School • Remote • San Francisco, CA • August 2019 - July 2020
-> 
 > * Productionizing Machine Learning Models, Python, HTML, Data Engineering, SQL, NoSQL, Back-End API’s, Data Visualizations, Natural-Language Processing (NLP) Models, Neural Networks, Statistical Analysis, Classic Algorithmic Paradigms, Computer Vision, Data Structures (ie: hash tables, graphs, BST’s, etc.)
 > 
 > ### Computer Science & Mathematics
 > #### Georgia Southern University • Statesboro, GA • August 2011 - December 2012
-> 
 > * Calculus I, Calculus II, Calculus III, Statistics, Data Structures, Programming Principles I, Programming Principles II, Discrete Mathematics, Ethics of Computers in Society
 > 
 
@@ -110,48 +109,45 @@
 > * [AWS Cloud Practitioner](https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/), June 2020
 > * [Y Combinator Startup School](https://www.startupschool.org/), March 2020
 
+ 
 *****
 *****
-# EXPERIENCE
+# PERSONAL PROJECTS [(View Portfolio Site)](https://ryan.zernach.com/portfolio/)
 *****
 *****
 
-> ### ● [Demosphere, Inc.](https://demosphere.com/)
-> React Native Mobile App Developer • Full-Time • Remote • March 2022 - Present
-> * I was hired when their sports management app was ugly, disorganized, and had poor reviews. Since then, it has been extremely rewarding to know that I have had such a hugely positive impact. The app's architecure has been completely re-engineered, and significant improvements have been seen. The codebase has never been cleaner, more organized, more efficient, and more reliable. The app is now far more aesthetically pleasing, now makes 50x fewer API calls than it did when I first came onboard, now has additional features, was entirely converted from Javascript to Typescript, now includes more jest unit tests, and the Crashlytics data has shown steady improvements in the overall stability of the app.
+> ### [STEM Tech Network](https://stemtechnetwork.com) — iOS/Android Social Learning Network for Future-Focused STEM-related Topics
+> * Built my own idea in my free-time as a full-stack, solo, unicorn developer (everything front-end to back-end)
+> * Integrated with AWS database & Hasura GraphQL endpoint for access to live websocket connection
+> * Hosted custom API’s on Netlify and connected with Google Firebase to store images/videos and user auth
+> * Implemented Over-the-Air (OTA) Updates to instantly deliver bug fixes and improvements to users
+> * Utilized custom CLI templating to generate exceptionally organized Typescript components & screens
 > 
-> ### ● [IPEG, Corp.](https://utto.com/about/)
-> React Native Mobile App Developer • Short-Term, Full-Time Contract • Remote • February 2022 - March 2022 • 6 weeks
-> * During my short-term contract, I successfully fixed the bugs on a React Native app that is used by customers in the internet & telecommunications industry.
+> ### [Marriage DAO](https://github.com/Zernach/marriage-dao-mobile) — iOS/Android Blockchain React Native App Developed at the Miami Hack Week 2023 Hackathon
+> * Built-in @WalletConnect for users to be able to login to the mobile app using one of dozens of web3 wallet providers
+> * Leveraged API for users to create blockchain marriage contracts on the Ethereum/Polygon Blockchain network
+> * As part of the hackathon, we had five days to complete this project, and we also created a React website
 > 
-> ### ● [Finequities, LLC](https://finequities.com/)
-> React Native Mobile App Developer & Back-End API's Developer • Full-Time Contract • Remote • October 2021 - February 2022 • 5 months
-> * After everyone was laid-off due to the depletion of private funding, I was reminded that our fintech startup team had created an exceptionally impressive React Native social-trading app for exchanging stocks & crypto. I’m beyond thankful for all of the growth that has come from my experience with Finequities. We were a small team of (2) full-time developers, (1) designer, and (1) project manager.
+> ### [Landscape Supply App](https://landscapesupply.app/) — iOS/Android App & Online Web Dashboard to Buy/Sell Landscape Supplies
+> * For 3-months part-time, I wrote the iOS/Android app in React Native & built the web dashboard
+> * Used Python/Flask & HTML/JS/CSS to build the web dashboard and back-end api's
+> * Hosted the cloud infrastructure & authentication for this project on the Google Cloud Platform
 > 
-> ### ● [Trilogy Education](https://www.trilogyed.com/)
-> Data Science Tutor for University Students • Part-Time • Remote • August 2020 - October 2021 • 1 year, 2 months
-> * I guided hundreds of diverse college students (from dozens of national universities) how to build awesome websites, powerful dashboards, databases, & machine learning models using Python, JavaScript, HTML, & CSS.
+> ### [Better Reads App](https://ryan.zernach.com/portfolio/readrr-a-platform-to-discover-track-and-share-new-books/) — iOS App w/ Machine Learning for Readers to Track, Share, & Discover New Books
+> * Used Agile & Scrum methodologies to iteratively deploy Natural Language Processing (NLP) models
+> * Practiced CI/CD via blue/green RESTful Flask microservices on AWS EB to facilitate JSON post requests
+> * Launched & managed a PostgreSQL instance on AWS RDS to store millions of GoogleBooks data
 > 
-> ### ● [Vanderbilt University](https://linkedin.com/in/zernach)
-> Teaching Assistant: Data Visualizations • Part-Time • Remote • September 2020 - March 2021 • 6 months
-> * I assisted in teaching a bootcamp-style curriculum to 30+ Vanderbilt Students. I helped them learn how to build awesome websites, powerful dashboards, databases, & machine learning models.
+> ### [Flight Prices](https://ryan.zernach.com/portfolio/airline-price-predictor-how-are-flight-prices-calculated/) — Airline Pricing Analysis & Interactive Pricing User-Interface
+> * Built front-end user interface with Flask for user to interact w/ a predictive machine learning model
+> * Tediously gathered 27M rows of data, wrangled/cleaned to 9M, uploaded data to Kaggle
+> * As a data analyst, I generated statistical analyses, distribution charts, and business intelligence insights
 > 
-> ### ● [instaSod.com](https://instasod.com), [CustomizedChristmasLights.com](https://customizedchristmaslights.com)
-> Small Business Owner (Self-Employed) • October 2015 – January 2019 • 3 years, 4 months
-> * **Data Management** — automation, invoicing, client management, Google Analytics
-> * **Professional Sales** — Generated $450k+ gross sales over the course of three years
-> * **Designer** — websites, systems, processes, graphics, digital landscapes, sales proposals
-> * **Lessons Learned** — the experience of managing my own businesses has shaped my mindset:
+> ### [Brain Power](https://ryan.zernach.com/portfolio/brainpower-the-future-of-communicating-with-technology/) — Using Machine Learning & an EEG Device to Control Technology
+> * Built an application for the user to control light switches & thermostats with their brain
+> * Collected data from an EEG device and used Scikit-Learn to train a predictive model
+> * Deployed back-end Python get request API w/ Flask: communicate w/ EEG device, detect brain patterns
 > 
-> * Customer/User/Client Centered Mindset
-> * Ability to Ask the Right Questions
-> * Desire to Never Stop Learning
-> * Intuition to Set Goals/Plans
-> * Clarity of Communication
-> * Team-Building Aptitude
-> * Humility to Ask for Help
-> * Results-Driven Attitude
-> * Disciplined & Focused
-> * Critical Thinking Skills
-> * Capacity to Research
-> * Task Management
+> ### [Spotify Music](https://ryan.zernach.com/portfolio/spotify-song-suggester-which-songs-are-most-similar-to-your-favorites/) — Recommends New Music Based on Your Favorite Songs
+> * Connected with Spotify’s API to harvest data (and metadata) about the songs in their database
+> * Built back-end Python recommendation engine and API’s (get & post requests) to return predicted songs data to front-end
