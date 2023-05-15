@@ -38,7 +38,7 @@
 *****
 
 > ### ● [Demosphere](https://demosphere.com/)
-> React Native Mobile App Developer • Full-Time • Remote • March 2022 - Present
+> Lead React Native Mobile App Developer • Full-Time • Remote • March 2022 - May 2023 • 1 year, 2 months
 > * Re-engineered the app’s architecture using CLI generators
 > * Oversaw app’s design, development, testing, and publishing
 > * Integrated group chat features, push notifications, & calendar sync
@@ -54,9 +54,8 @@
 > * Evaluated Google Crashlytics to further improve stability & performance
 > * Version 2.0 release date is June 2023
 > 
-> 
 > ### ● [Finequities](https://finequities.com/)
-> React Native Mobile App Developer & Back-End API's Developer • Full-Time Contract • Remote • October 2021 - February 2022 • 5 months
+> React Native Mobile App Developer & Back-End API's Developer • Full-Time Contract • Remote • February 2021 - March 2022 • 1 year, 2 months
 > * Managed front-end, custom back-end cloud functions, and authentication endpoints
 > * Integrated various APIs, including: bank accounts, stocks, and cryptocurrencies
 > * Wrote the data visualizations logic for viewing the performance of stocks & crypto
@@ -75,7 +74,6 @@
 > Data Science Tutor for University Students • Part-Time • Remote • October 2019 - February 2021 • 1 year, 5 months
 > * Taught over 900 college students JavaScript, HTML, CSS, Python, dashboards, databases, API’s, & machine learning
 > * Managed a busy schedule of remotely teaching 30+ students per week for ~60 minutes per lesson
-
 > 
 > ### ● [Vanderbilt University](https://linkedin.com/in/zernach)
 > Teaching Assistant: Data Visualizations • Part-Time • Remote • October 2019 - February 2021 • 6 months
