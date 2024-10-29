@@ -1,12 +1,3 @@
- <iframe
-title={'Ryan-Zernach-Resume-Mobile-App-Developer-Web-Developer-Software-Engineer-Machine-Learning-Data-Science'}
-src={resumeLink}
-style={{ width: "90vw", maxWidth: '834px', borderRadius: "20px", boxShadow: '0px 0px 10px 0px #ffffff99', alignSelf: 'center' }}
-allow={"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"}
-allowFullScreen={true}
-height={'2197px'}
-/>
-
 > ## 👤 Ryan Zernach
 > ## ✉️ Ryan@Zernach.com
 > ## 🤖 Full-Stack Mobile App Developer
@@ -105,7 +96,7 @@ height={'2197px'}
 > * As part of the hackathon, we had five days to complete this project, and we also created a React website
 > 
 > ### [Landscape Supply App](https://landscapesupply.app/) — iOS/Android App & Online Web Dashboard to Buy/Sell Landscape Supplies
-> * For 3-months part-time, I wrote the iOS/Android app in React Native & built the web dashboard
+>  I wrote the iOS/Android app in React Native & built the web dashboard
 > * Used Python/Flask & HTML/JS/CSS to build the web dashboard and back-end api's
 > * Hosted the cloud infrastructure & authentication for this project on the Google Cloud Platform
 > 
