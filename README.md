@@ -1,3 +1,12 @@
+         <iframe
+                    title={'Ryan-Zernach-Resume-Mobile-App-Developer-Web-Developer-Software-Engineer-Machine-Learning-Data-Science'}
+                    src={resumeLink}
+                    style={{ width: "90vw", maxWidth: '834px', borderRadius: "20px", boxShadow: '0px 0px 10px 0px #ffffff99', alignSelf: 'center' }}
+                    allow={"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"}
+                    allowFullScreen={true}
+                    height={'2197px'}
+                />
+
 > ## 👤 Ryan Zernach
 > ## ✉️ Ryan@Zernach.com
 > ## 🤖 Full-Stack Mobile App Developer
