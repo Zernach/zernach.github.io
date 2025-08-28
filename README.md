@@ -2,10 +2,11 @@
 
 **🏛️AI Infrastructure 🤖MLOps / LLMOps**
 
-> [<img style="margin-top: 20px;" src="https://raw.githubusercontent.com/Zernach/zernach.github.io/main/images/email/Ryan_Zernach_com_Button.png" alt="alt text" width="260" height="79">](https://ryan.zernach.com) >
-> [<img src="https://github.com/Zernach/zernach.github.io/blob/main/images/email/Ryan_Zernach_Linkedin_Profile.png?raw=true" alt="alt text" width="260" height="79">](https://linkedin.com/in/zernach) >
-> [<img src="https://github.com/Zernach/zernach.github.io/blob/main/images/email/Ryan_Zernach_Github_Account.png?raw=true" alt="alt text" width="260" height="79">](https://github.com/zernach) >
-> [<img src="https://github.com/Zernach/zernach.github.io/blob/main/images/email/Ryan_Zernach_Official_Resume.png?raw=true" alt="alt text" width="260" height="79">](https://zernach.github.io/resume/Ryan_Zernach_Resume.pdf)
+[<img style="margin-top: 20px;" src="https://raw.githubusercontent.com/Zernach/zernach.github.io/main/images/email/Ryan_Zernach_com_Button.png" alt="alt text" width="260" height="79">](https://ryan.zernach.com)
+
+[<img src="https://github.com/Zernach/zernach.github.io/blob/main/images/email/Ryan_Zernach_Linkedin_Profile.png?raw=true" alt="alt text" width="260" height="79">](https://linkedin.com/in/zernach)
+
+[<img src="https://github.com/Zernach/zernach.github.io/blob/main/images/email/Ryan_Zernach_Official_Resume.png?raw=true" alt="alt text" width="260" height="79">](https://zernach.github.io/resume/Ryan_Zernach_Resume.pdf)
 
 ---
 
