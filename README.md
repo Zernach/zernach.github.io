@@ -71,7 +71,7 @@ Lambda School • Y Combinator • Remote
 - Python, SciKit-Learn, PySpark, Data Engineering, PostgreSQL Databases, Back-End APIs (Flask / FastAPI)
 
 **Computer Science & Mathematics** • _2011 – 2012_  
-Georgia Southern University
+Georgia Southern University • Statesboro, GA
 
 - Visual Basic, Calculus, C, C++, R, Statistics, Data Structures, Programming Principles, Linear Regression
 
@@ -121,7 +121,7 @@ Georgia Southern University
 
 ## Personal Projects
 
-### Founding Full-Stack Engineer • Archlife Industries Software • Remote, Miami
+### Founding Full-Stack Engineer • Archlife Industries Software • Remote
 
 - Created my own personal mobile apps to solve my problems & new users sign up everyday
 - Setup custom observability dashboards for marketing, analytics, API logs, & database admin
