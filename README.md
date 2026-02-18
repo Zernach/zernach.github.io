@@ -1,12 +1,12 @@
 # Ryan Zernach
 
-**Senior Software Engineer (Full-Stack) • Ryan@Zernach.com • [Ryan.Zernach.com](https://ryan.zernach.com) • LinkedIn • Github • 100% Remote**
+## Senior Software Engineer (Full-Stack)
 
-[<img style="margin-top: 20px;" src="https://raw.githubusercontent.com/Zernach/zernach.github.io/main/images/email/Ryan_Zernach_com_Button.png" alt="alt text" width="260" height="79">](https://ryan.zernach.com)
+### Mobile Apps, Agents, MLOps, Websites, DevOps, Cloud
 
-[<img src="https://github.com/Zernach/zernach.github.io/blob/main/images/email/Ryan_Zernach_Linkedin_Profile.png?raw=true" alt="alt text" width="260" height="79">](https://linkedin.com/in/zernach)
-
-[<img src="https://github.com/Zernach/zernach.github.io/blob/main/images/email/Ryan_Zernach_Official_Resume.png?raw=true" alt="alt text" width="260" height="79">](https://zernach.github.io/resume/Ryan_Zernach_Resume.pdf)
+<a href="https://ryan.zernach.com/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/cfb4e3ba-61f6-4798-a09a-7caee109ab2a" alt="Ryan Zernach Website" />
+</a>
 
 ---
 
