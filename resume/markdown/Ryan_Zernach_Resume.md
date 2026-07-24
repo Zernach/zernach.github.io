@@ -1,7 +1,13 @@
-# [Ryan Zernach](<https://ryan.zernach.com/>) Full-Stack AI Systems Engineer
-## Agentic Infrastructure & Product Engineering
+# [Ryan Zernach](<https://ryan.zernach.com/>) 🧬
+
+## Full-Stack AI Systems Engineer
+
+### Agentic Infrastructure & Product Engineering
 
 Portfolio: [Ryan.Zernach.com](<https://ryan.zernach.com>)[ •](<https://ryan.zernach.com>) Email: Ryan@Zernach.com[ •](<https://ryan.zernach.com>)[LinkedIn ](<https://linkedin.com/in/zernach/>)• [GitHub](<https://github.com/zernach>) • Remote • Healthcare • FinTech
+
+[![image](https://github.com/user-attachments/assets/5d4bfd76-0893-43a4-81b1-f83bee35bc11)](https://ryan.zernach.com/)
+
 ## HIGHLIGHTS
 
 - [Distributed systems engineer with 10+ years of engineering Payments, Agents, Mobile Apps, Websites, DevOps + MLOps Systems](<https://ryan.zernach.com/portfolio>)
@@ -27,7 +33,7 @@ Portfolio: [Ryan.Zernach.com](<https://ryan.zernach.com>)[ •](<https://ryan.ze
 
 ## EXPERIENCE
 
-### Independent Full-Stack AI Systems Engineer • USA • Remote July 2025 - Present
+### [Independent Full-Stack AI Systems Engineer • USA • Remote July 2025 - Present](<https://ryan.zernach.com/portfolio>)
 
 - Building agentic products and back-end systems across Python, Typescript, vector embeddings + OSS large-language models
 - Automated eCommerce marketplace responsibilities using Twilio VoIP, realtime voice agents + DALL-E image generations
@@ -84,28 +90,28 @@ Portfolio: [Ryan.Zernach.com](<https://ryan.zernach.com>)[ •](<https://ryan.ze
 
 ### [AI Engineering Fellowship (G3)](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Gauntlet AI](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Remote](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Austin, TX ](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ ](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[2025](<https://ryan.zernach.com/portfolio/gauntlet-ai>)
 
-- [Mastered how to command agents, automate workflows, and 100x enterprise-grade software engineering](<https://ryan.zernach.com/portfolio/gauntlet-ai>)
-- [Harnessed the power of RAG, multi-agent systems, OpenAPI, and MCP to build agentic automations](<https://ryan.zernach.com/portfolio/gauntlet-ai>)
+- Mastered how to command agents, automate workflows, and 100x enterprise-grade software engineering
+- Harnessed the power of RAG, multi-agent systems, OpenAPI, and MCP to build agentic automations
 
 ### [Data Science & Machine Learning Bootcamp](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Lambda School](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Y Combinator](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Remote ](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[ ](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[2020](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)
 
-- [Recommendation Engines, Computer Vision (CV) Models, Time-Series Forecasting, Natural-Language Processing](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)
-- [Python, SciKit-Learn, PySpark, Django, Flask, FastAPI, Data Engineering, PostgreSQL Databases, Back-End APIs](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)
+- Recommendation Engines, Computer Vision (CV) Models, Time-Series Forecasting, Natural-Language Processing
+- Python, SciKit-Learn, PySpark, Django, Flask, FastAPI, Data Engineering, PostgreSQL Databases, Back-End APIs
 
 ### [Turfgrass & Landscape Management](<https://ryan.zernach.com/portfolio/university-of-georgia>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[University of Georgia (NALP)](<https://ryan.zernach.com/portfolio/university-of-georgia>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Athens, Georgia ](<https://ryan.zernach.com/portfolio/university-of-georgia>)[ ](<https://ryan.zernach.com/portfolio/university-of-georgia>)[2015](<https://ryan.zernach.com/portfolio/university-of-georgia>)
 
-- [Design Principles, Science of Grass, Outdoor Business Management, Landscape Architecture](<https://ryan.zernach.com/portfolio/university-of-georgia>)
+- Design Principles, Science of Grass, Outdoor Business Management, Landscape Architecture
 
 ### [Computer Science & Mathematics Coursework](<https://ryan.zernach.com/portfolio/georgia-southern-university>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Georgia Southern University](<https://ryan.zernach.com/portfolio/georgia-southern-university>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Statesboro, Georgia ](<https://ryan.zernach.com/portfolio/georgia-southern-university>)[ ](<https://ryan.zernach.com/portfolio/georgia-southern-university>)[2012](<https://ryan.zernach.com/portfolio/georgia-southern-university>)
 
-- [Visual Basic, Calculus, C, C++, R, Statistics, Data Structures, Programming Principles, Linear Regression](<https://ryan.zernach.com/portfolio/georgia-southern-university>)
+- Visual Basic, Calculus, C, C++, R, Statistics, Data Structures, Programming Principles, Linear Regression
 ## CERTIFICATIONS
 
-[2025](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ ](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)• [Gauntlet AI Engineering Fellowship (](<https://ryan.zernach.com/portfolio/gauntlet-ai>)G3)
-[2024](<https://ryan.zernach.com/portfolio/grow-ai-voice-assistant-for-nasa-space-apps-2024-hackathon>)[ ](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)• [NASA Space Apps Hackathon Finalist](<https://ryan.zernach.com/portfolio/grow-ai-voice-assistant-for-nasa-space-apps-2024-hackathon>)
-2022[ ](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)• [Blockchain Hackathon ](<https://ryan.zernach.com/portfolio/marriage-dao-miami-hack-week-2023-hackathon>)Participant
-[2020](<https://ryan.zernach.com/tensorflow-developer-certification-study-guide/>)[ ](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)• [TensorFlow Computer Vision](<https://ryan.zernach.com/tensorflow-developer-certification-study-guide/>)
-[2020](<https://ryan.zernach.com/portfolio/data-robot-10x-data-science-academy-certification-guide>)[ ](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)• [AutoML Pipelines (DataRobot Academy)](<https://ryan.zernach.com/portfolio/data-robot-10x-data-science-academy-certification-guide>)
-[2019](<https://www.linkedin.com/in/zernach/>)[ ](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)• [Google Cloud Platform GCP Developer](<https://www.linkedin.com/in/zernach/>)
-[2019](<https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/>)[ ](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)• [AWS Microservices Cloud Practitioner](<https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/>)
-[2019](<https://www.startupschool.org/>)[ ](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)• [Y Combinator Startup Scho](<https://www.startupschool.org/>)ol
+- 2025 • [Gauntlet AI Engineering Fellowship (G3)](<https://ryan.zernach.com/portfolio/gauntlet-ai>)
+- 2024 • [NASA Space Apps Hackathon Finalist](<https://ryan.zernach.com/portfolio/grow-ai-voice-assistant-for-nasa-space-apps-2024-hackathon>)
+- 2022 • [Blockchain Hackathon Participant](<https://ryan.zernach.com/portfolio/marriage-dao-miami-hack-week-2023-hackathon>)
+- 2020 • [TensorFlow Computer Vision](<https://ryan.zernach.com/tensorflow-developer-certification-study-guide/>)
+- 2020 • [AutoML Pipelines (DataRobot Academy)](<https://ryan.zernach.com/portfolio/data-robot-10x-data-science-academy-certification-guide>)
+- 2019 • [Google Cloud Platform GCP Developer](<https://www.linkedin.com/in/zernach/>)
+- 2019 • [AWS Microservices Cloud Practitioner](<https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/>)
+- 2019 • [Y Combinator Startup School](<https://www.startupschool.org/>)

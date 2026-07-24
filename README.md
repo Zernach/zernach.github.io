@@ -1,136 +1,117 @@
-# Ryan Zernach
+# [Ryan Zernach](<https://ryan.zernach.com/>) 🧬
 
-## Senior Software Engineer (Full-Stack)
+## Full-Stack AI Systems Engineer
 
-### Mobile Apps, Agents, MLOps, Websites, DevOps, Cloud
+### Agentic Infrastructure & Product Engineering
 
-<a href="https://ryan.zernach.com/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/cfb4e3ba-61f6-4798-a09a-7caee109ab2a" alt="Ryan Zernach Website" />
-</a>
+Portfolio: [Ryan.Zernach.com](<https://ryan.zernach.com>)[ •](<https://ryan.zernach.com>) Email: Ryan@Zernach.com[ •](<https://ryan.zernach.com>)[LinkedIn ](<https://linkedin.com/in/zernach/>)• [GitHub](<https://github.com/zernach>) • Remote • Healthcare • FinTech
 
----
+[![image](https://github.com/user-attachments/assets/5d4bfd76-0893-43a4-81b1-f83bee35bc11)](https://ryan.zernach.com/)
 
-## Highlights
+## HIGHLIGHTS
 
-- Strategic full-stack engineer with **10+ years** of experience in Mobile Apps, Agents, MLOps, Websites, DevOps, Cloud
-- Shipped front-end & back-end of **CellarChat™** chatbot to **1M+ members** and established LLM evaluation pipelines
-- Architected distributed systems for eCommerce platform, powered by agentic outbound phone calls with AI / LLM
-- Boosted mobile app ratings to **4.9★** (10k+ reviews) & lifted recurring revenue by **25%+** w/ Apple Pay subscriptions
-- Awarded **Top 10 of 10,000** international projects in the **2024 NASA Space Apps** hackathon with AI Voice Assistant
+- [Distributed systems engineer with 10+ years of engineering Payments, Agents, Mobile Apps, Websites, DevOps + MLOps Systems](<https://ryan.zernach.com/portfolio>)
+- [Scaled CellarChat™ tool-calling agent to 1M+ active members, complete with RLHF & CI/CD LLM evaluation scoring pipelines](<https://ryan.zernach.com/portfolio/cellartracker>)
+- [Engineered Apple Pay subscriptions to lift recurring revenue by 25%+ which lifted mobile app ratings to 4.9★ (10k+ reviews)](<https://ryan.zernach.com/portfolio/cellartracker>)
+- [Completed Gauntlet AI engineering fellowship with 2% acceptance rate and mastered the art of agentic AI orchestration](<https://ryan.zernach.com/portfolio/gauntlet-ai>)
+- [Designed observable backend systems that support autonomous AI-powered VoIP eCommerce payment automations](<https://ryan.zernach.com/portfolio/landscape-supply>)
+- [Awarded Top 10 of 10,000 international projects in 2024 NASA Space Apps hackathon with AI Voice Assistant](<https://ryan.zernach.com/portfolio/grow-ai-voice-assistant-for-nasa-space-apps-2024-hackathon>)
+## TECH STACK
 
----
+| Category                                | Technologies                                                                                                                                                                                                        |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Programming Languages                   | TypeScript, Python, Rust, Golang, Java, C#, Ruby, Swift, Kotlin, Bash, JavaScript, PHP, C++, Objective-C, R, Solidity, Dart, Flutter, XML                                                                           |
+| AI Systems & Machine Learning           | LLMOps, vLLM, LiteLLM, RAG, Agents, MCP, Vector Embeddings, Evaluations, Semantic Kernel, LangChain, Langfuse, Computer Vision, PyTorch, Knowledge Graphs, TensorFlow, Scikit-Learn, Bedrock, Foundry               |
+| Platform & Backend Engineering          | DevEx, Node.js, FastAPI, Django, Nest.js, Express, .NET Core, OpenAPI, Microservices, REST, GraphQL, WebSockets, Webhooks, gRPC, Kafka                                                                              |
+| Data & Persistence                      | PostgreSQL, SQL, NoSQL, Redis, Vector Databases, ETL, Snowflake, Graph Databases, Entity Relationships, Caching, BigQuery, PySpark                                                                                  |
+| Cloud Infrastructure & DevOps           | AWS, Azure, GCP, Cloudflare, Docker, GitHub Actions, Terraform, Kubernetes, CI/CD, CloudOps, Blue/Green, DNS, Networking                                                                                            |
+| Front-End & Product Engineering         | React, React Native, iOS, Android, Web, Swift, Kotlin, Flutter, Expo Router, Next.js, Redux, Streamlit, Animations, Design, User Feedback, Playwright                                                               |
+| Distributed Systems & Operations        | Queues, Redis, RabbitMQ, Analytics, Pub/Sub, Linux, Airflow, VoIP, Cron, WebRTC, Observability, OpenTelemetry, Rate Limiting, Horizontal Scaling, Machine Learning CI/CD, Event-Driven Architecture, Load Balancing |
+| Security, Identity & Compliance         | AuthN, AuthZ, OAuth, SOC 2, Identity, Role-Based Access Control, JWT, Secure Systems Design, SSO, API Security, Secrets Management                                                                                  |
+| Payments, Communications & Integrations | PCI Compliance, Stripe, Apple Pay, IAP, Billing, Subscriptions, Wallets, Twilio, SMS, Push Notifications, HTTP APIs, Marketing Tech, SMTP/IMAP                                                                      |
+| Blockchain & Web3                       | Ethereum, Solana, dApps, WalletConnect, MetaMask, Polygon, Solidity, Smart Contracts, Ethers.js, Tokens, ERC-20, ERC-721                                                                                            |
 
-## Tech Stack
+## EXPERIENCE
 
-| Category | Technologies |
-|----------|--------------|
-| **LLMOps / RAG / MCP / Voice Agents / Evaluations** | LangChain / GenAI / OpenAPI / Semantic Kernel |
-| **ML / Data** | Machine Learning Pipelines / Computer Vision / Python / PyTorch / PySpark / ETL / TensorFlow |
-| **Cloud / DevOps** | Cloudflare / AWS / Azure / GCP / CloudOps / DevOps / Docker / Kubernetes / Terraform |
-| **Data & APIs** | Vector Databases / SQL / GraphQL / NoSQL / Git / Bash / Cursor / Claude / Orchestration |
-| **Auth & Security** | AuthN / AuthZ / OAuth / Identity / Security |
-| **Mobile** | React Native / iOS / Android / Swift / Kotlin / Expo |
-| **Frontend / Backend** | TypeScript / React / Redux / Node / Next / Streamlit / FastAPI / Express / Rust / .NET / C# / Go / Java / Ruby |
-| **Realtime / Infra** | WebSockets / Queues / RabbitMQ / Redis / WebRTC |
-| **Web3** | Blockchain / dApps / Wallets / Ethereum / Solana |
-| **Payments** | Apple Pay / Subscriptions / Stripe / IAP / Webhooks |
-| **Growth & Comms** | SEO / Marketing Automations / Campaign Attribution / IMAP / SMTP / Emails / SMS / Twilio / Push Notifications |
-| **Observability** | Systems Observability / Analytics / Admin Dashboards |
+### [Independent Full-Stack AI Systems Engineer • USA • Remote July 2025 - Present](<https://ryan.zernach.com/portfolio>)
 
----
+- Building agentic products and back-end systems across Python, Typescript, vector embeddings + OSS large-language models
+- Automated eCommerce marketplace responsibilities using Twilio VoIP, realtime voice agents + DALL-E image generations
+- Dockerized scalable Robotic Process Automation (RPA) via Kubernetes, local vLLM inferences, and agentic web-scraping
+- Published TranslateWallpaper, a cross-platform mobile app to make LLM-powered language-learning wallpapers images
 
-## Certifications
+### [Senior Full-Stack AI Systems Engineer](<https://ryan.zernach.com/portfolio/cellartracker>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[CellarTracker](<https://ryan.zernach.com/portfolio/cellartracker>)[ • Seattle • Remote ](<https://ryan.zernach.com/portfolio/cellartracker>)[Aug 2023 - Jul 2025](<https://ryan.zernach.com/portfolio/cellartracker>)
 
-- **2025:** Gauntlet AI Engineering Fellowship (G3)
-- **2024:** NASA Space Apps Hackathon Winner
-- **2023:** GenAI with Large Language Models
-- **2022:** Ethereum Blockchain Developer
-- **2021:** Mosh React Native Academy
-- **2020:** Machine Learning Pipelines (DataRobot)
-- **2020:** TensorFlow Computer Vision Developer
-- **2019:** Google Cloud Platform GCP Developer
-- **2019:** AWS Microservices Practitioner
-- **2019:** Y Combinator Startup School
+- Scaled agentic CellarChat™ to 1M+ international members & built world’s highest-rated #1 wine app
+- Architected RLHF pipeline to fine-tune OpenAI’s GPT-4o, OpenAPI CI/CD triggers, embeddings, & evals
+- Integrated ML wine recommendations using Azure-ML + world’s largest online database of wine reviews
+- Maintained Python, TypeScript, React Native, C#/.NET, SQL, Redis, CI/CD, Azure AI Foundry + PromptFlow
+- Helped to boost app store ratings to 4.9★ average with 10,000+ verified 5-star ratings on iOS and Android
+- Embedded Apple Pay subscriptions in the React Native app to generate additional 25%+ recurring revenue
+- Developed backend Python systems supporting agentic workflows, support tickets, & account management
+- Improved user’s experience of cellar management CRUD workflows to improve consistency and reduce taps
+- Implemented PyTorch OCR image-to-text search, high-performance barcode scanning, and activity feed posts
+- Streamlined the Redux store for fast, efficient, and persistent global state management between app sessions
+- Rebuilt the React Native app’s analytics implementations for tracking critical user interactions and in-app behavior
+- Migrated 25+ years legacy support ticket system from Active Server Pages (ASP) to TypeScript Express framework
+- Arranged A/B tests during paywall & onboarding experiences using phased rollout schedules for marketing analysis
 
----
+### [Full-Stack Mobile Engineer ](<https://ryan.zernach.com/portfolio/archlife-industries>)[• ](<https://ryan.zernach.com/portfolio/cellartracker>)[Archlife Industries Software](<https://ryan.zernach.com/portfolio/archlife-industries>)[ • Miami • Remote](<https://ryan.zernach.com/portfolio/archlife-industries>)[ ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Sept 2021 - Aug 2023](<https://ryan.zernach.com/portfolio/archlife-industries>)
 
-## Education
+- Delivered eTrading stocks/crypto exchange to compete with Robinhood: public leaderboards + copy friend’s portfolio distribution
+- Used AWS Terraform to deploy docker container running, Java + Springboot, & NodeJS dashboards, and SQL migrations
+- Constructed core mobile app functionality, including: Plaid connections, trending investors, & suggested stocks
+- Built social network features, such as direct chat, user profiles, posts, likes, emojis, & threaded comments
+- Wrote the data-visualization logic for viewing and comparing the performance of different stocks/crypto
+- Transitioned eSports React Native codebase from JavaScript to TypeScript for long-term maintainability
+- Improved Ruby on Rails for push notifications, chat, & native calendar sync to improve user satisfaction
+- Remedied hardware’s bluetooth transactions in Swift telecommunications app + Python Flask app
 
-**AI Engineering Fellowship (G3)** • _Fall 2025_  
-Gauntlet AI • Remote • Austin, TX
+### [Data Science + Machine Learning Tutor](<https://ryan.zernach.com/portfolio/university-tutor>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[edX](<https://ryan.zernach.com/portfolio/university-tutor>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[Vanderbilt, UC Berkeley, +24 others](<https://ryan.zernach.com/portfolio/university-tutor>)[ • Remote ](<https://ryan.zernach.com/portfolio/university-tutor>)[ ](<https://ryan.zernach.com/portfolio/university-tutor>)[July 2020 – Sept 2021](<https://ryan.zernach.com/portfolio/university-tutor>)
 
-- Invested 10 weeks and 100 hours per week into intense curriculum of AI engineering bootcamp
+- During pandemic, taught 900+ online college students Python, PyTorch, APIs, machine learning, TypeScript, SQL + databases
+- Managed busy schedule of remotely teaching 30+ university students per week in 1:1 setting (one hour per person)
+- Dozens of universities were subscribed to my employer’s curriculum and online tutoring resources for students
+
+### [React Web Developer + Landscape Architect](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[Georgia Hybrid Landscaping](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[Alpharetta, Georgia ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[ ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[Feb 2013 – Jan 2019](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)
+
+- Engineered uploading videos/images, survey questions, pricing proposals, & processing payments via Java + Spring Boot
+- Migrated websites from PHP to NodeJS React, which successfully processed $500k+ gross sales in three years
+- Managed online eCommerce payments, visitor analytics, Google AdSpend, and email marketing campaigns
+- Configured automated, outbound marketing email campaign schedulers & listeners using IMAP/POP
+- Setup observability dashboards for payments, marketing, analytics, API logs, & admin
+
+### [Payments Systems Intern (Card Processing)](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Cost Plus Processing](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Alpharetta, Georgia ](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)[ ](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)[Sept 2012 – Jan 2013](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)
+
+- Worked with merchant processing systems & payment gateways to understand PCI compliance and financial flows
+- Analyzed end-to-end card transaction lifecycles (interchange rates, risk) across critical payment networks
+- Built foundational knowledge of secure payment infrastructure, interchange fees, & transaction routing
+## EDUCATION & TRAINING
+
+### [AI Engineering Fellowship (G3)](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Gauntlet AI](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Remote](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Austin, TX ](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ ](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[2025](<https://ryan.zernach.com/portfolio/gauntlet-ai>)
+
+- Mastered how to command agents, automate workflows, and 100x enterprise-grade software engineering
 - Harnessed the power of RAG, multi-agent systems, OpenAPI, and MCP to build agentic automations
-- Mastered how to command agents, automate workflows, & deliver enterprise-grade software solutions
 
-**Data Science Software Bootcamp** • _2019 – 2020_  
-Lambda School • Y Combinator • Remote
+### [Data Science & Machine Learning Bootcamp](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Lambda School](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Y Combinator](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Remote ](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[ ](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[2020](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)
 
-- Deployed Supervised/Unsupervised Machine Learning Models, Recommendation Engines
-- Computer Vision (CV) Models, Time-Series Forecasting, Natural-Language Processing (NLP) Pipelines
-- Python, SciKit-Learn, PySpark, Data Engineering, PostgreSQL Databases, Back-End APIs (Flask / FastAPI)
+- Recommendation Engines, Computer Vision (CV) Models, Time-Series Forecasting, Natural-Language Processing
+- Python, SciKit-Learn, PySpark, Django, Flask, FastAPI, Data Engineering, PostgreSQL Databases, Back-End APIs
 
-**Computer Science & Mathematics** • _2011 – 2012_  
-Georgia Southern University • Statesboro, GA
+### [Turfgrass & Landscape Management](<https://ryan.zernach.com/portfolio/university-of-georgia>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[University of Georgia (NALP)](<https://ryan.zernach.com/portfolio/university-of-georgia>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Athens, Georgia ](<https://ryan.zernach.com/portfolio/university-of-georgia>)[ ](<https://ryan.zernach.com/portfolio/university-of-georgia>)[2015](<https://ryan.zernach.com/portfolio/university-of-georgia>)
+
+- Design Principles, Science of Grass, Outdoor Business Management, Landscape Architecture
+
+### [Computer Science & Mathematics Coursework](<https://ryan.zernach.com/portfolio/georgia-southern-university>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Georgia Southern University](<https://ryan.zernach.com/portfolio/georgia-southern-university>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Statesboro, Georgia ](<https://ryan.zernach.com/portfolio/georgia-southern-university>)[ ](<https://ryan.zernach.com/portfolio/georgia-southern-university>)[2012](<https://ryan.zernach.com/portfolio/georgia-southern-university>)
 
 - Visual Basic, Calculus, C, C++, R, Statistics, Data Structures, Programming Principles, Linear Regression
+## CERTIFICATIONS
 
----
-
-## Experience
-
-### AI Engineer / Mobile Engineer (Full-Stack) • CellarTracker • Remote • Seattle — _2023 - 2025_
-
-- Wrote **CellarChat™** LLM chatbot for **1M+** active members using TypeScript front-end & Python back-end
-- Architected OpenAPI tool-calling pipeline, fine-tuning pipeline, LLM evaluations, & observability systems
-- Integrated intelligent ML-powered recommendations for world’s largest online database of wine reviews
-- Helped to boost app store ratings to **4.9★** average with **10,000+** verified 5-star ratings on iOS and Android
-- Embedded **Apple Pay** subscriptions in the React Native app to generate additional **25%+** recurring revenue
-- Implemented animations, barcode scanning, activity feed posts, ML recommendations, & OCR image search
-- Streamlined the Redux store for fast, efficient, and persistent global state management between app sessions
-- Rebuilt the React Native app’s analytics implementations for tracking critical user interactions and app behavior
-
-### Mobile Engineer • Demosphere • Remote • Washington D.C. — _2022 - 2023_
-
-- Transitioned entire codebase from Javascript to Typescript for increased long-term maintainability
-- Implemented updates to front-end React Native according to the design team’s mockups in Figma
-- Improved computational and network efficiencies by reducing load times and runs to the database
-- Evaluated Google Crashlytics to reduce edge case crashes and improve p95 stability and performance
-- Iterated on group chat features, push notifications, and native calendar sync to improve user satisfaction
-
-### React Native Engineer (Full-Stack) • FinEquities • Remote • Miami — _2021 – 2022_
-
-- Built fintech app to compete with Robinhood by exchanging stocks/crypto & connecting bank accounts
-- Wrote the data-visualization logic for viewing and comparing the performance of different stocks/crypto
-- Built social network features, such as direct chat, user profiles, posts, likes, emojis, & threaded comments
-- Constructed core mobile app functionality, including: copy portfolio, trending investors, & suggested stocks
-- Custom-built a companion admin web dashboard to monitor mobile app performance & infrastructure health
-
-### Data Science Tutor / Teaching Assistant • edX • Vanderbilt University, UC Berkeley, +24 others — _2020 – 2021_
-
-- During pandemic, taught **900+** online college students Python, machine learning, TypeScript, websites, & databases
-- Managed busy schedule of remotely teaching **30+** university students per week in 1:1 setting (one hour per person)
-
-### React Web Developer (Full-Stack) • Georgia Hybrid Landscaping • Atlanta, Georgia — _2015 – 2019_
-
-- Converted PHP websites to React and marketed businesses to generate **$500k+** of gross sales in 3 years
-- Managed online presence for small businesses, including web analytics, Google AdSpend, & email campaigns
-- Engineered user experience of uploading videos/images, survey questions, and receiving PDF pricing proposal
-
----
-
-## Personal Projects
-
-### Founding Full-Stack Engineer • Archlife Industries Software • Remote
-
-- Created my own personal mobile apps to solve my problems & new users sign up everyday
-- Setup custom observability dashboards for marketing, analytics, API logs, & database admin
-- Deployed agentic endpoints for facilitating merchant onboarding and inventory management
-- Automated LLMs to advertise on Reddit by reading threads and commenting on the best posts
-- Built end-to-end MLOps pipelines to enable low-latency inference and continuous model updates
-- Productionized chatbots using RAG, agentic tool-calling, voice-powered commands, & interactive maps
-
----
-
-Thank you for reviewing my resume!
-Ready to interview me? [Let's chat.](https://ryan.zernach.com/schedule)
+- 2025 • [Gauntlet AI Engineering Fellowship (G3)](<https://ryan.zernach.com/portfolio/gauntlet-ai>)
+- 2024 • [NASA Space Apps Hackathon Finalist](<https://ryan.zernach.com/portfolio/grow-ai-voice-assistant-for-nasa-space-apps-2024-hackathon>)
+- 2022 • [Blockchain Hackathon Participant](<https://ryan.zernach.com/portfolio/marriage-dao-miami-hack-week-2023-hackathon>)
+- 2020 • [TensorFlow Computer Vision](<https://ryan.zernach.com/tensorflow-developer-certification-study-guide/>)
+- 2020 • [AutoML Pipelines (DataRobot Academy)](<https://ryan.zernach.com/portfolio/data-robot-10x-data-science-academy-certification-guide>)
+- 2019 • [Google Cloud Platform GCP Developer](<https://www.linkedin.com/in/zernach/>)
+- 2019 • [AWS Microservices Cloud Practitioner](<https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/>)
+- 2019 • [Y Combinator Startup School](<https://www.startupschool.org/>)

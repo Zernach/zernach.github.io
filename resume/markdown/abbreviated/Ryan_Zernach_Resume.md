@@ -1,7 +1,13 @@
-# [Ryan Zernach](<https://ryan.zernach.com/>) Senior AI Systems Engineer
-## LLM Infrastructure & Product Engineering
+# [Ryan Zernach](<https://ryan.zernach.com/>) 🧬
+
+## Senior AI Systems Engineer
+
+### LLM Infrastructure & Product Engineering
 
 Ryan@Zernach.com[ • Ryan.Zernach.com •](<https://ryan.zernach.com>) [LinkedIn ](<https://linkedin.com/in/zernach/>)• [GitHub](<https://github.com/zernach>) • Remote • 10+ Years Engineering
+
+[![image](https://github.com/user-attachments/assets/5d4bfd76-0893-43a4-81b1-f83bee35bc11)](https://ryan.zernach.com/)
+
 ## TECH STACK
 
 | Category                                | Technologies                                                                                                                                                                                |
