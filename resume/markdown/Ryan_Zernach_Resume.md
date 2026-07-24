@@ -1,13 +1,14 @@
-# [Ryan Zernach](<https://ryan.zernach.com/>)[ ](<https://ryan.zernach.com>) [Full-Stack AI Systems Engineer](<https://ryan.zernach.com/>)[ •](<https://ryan.zernach.com>) Agentic Infrastructure & Product Engineering
+# [Ryan Zernach](<https://ryan.zernach.com/>) Full-Stack AI Systems Engineer
+## Agentic Infrastructure & Product Engineering
 
-[Portfolio: ](<https://ryan.zernach.com>)[Ryan.Zernach.com](<https://ryan.zernach.com>)[ •](<https://ryan.zernach.com>) Email: Ryan@Zernach.com[ •](<https://ryan.zernach.com>)[LinkedIn ](<https://linkedin.com/in/zernach/>)• [GitHub](<https://github.com/zernach>) • Remote • Healthcare • FinTech
+Portfolio: [Ryan.Zernach.com](<https://ryan.zernach.com>)[ •](<https://ryan.zernach.com>) Email: Ryan@Zernach.com[ •](<https://ryan.zernach.com>)[LinkedIn ](<https://linkedin.com/in/zernach/>)• [GitHub](<https://github.com/zernach>) • Remote • Healthcare • FinTech
 ## HIGHLIGHTS
 
-- Distributed systems engineer with 10+ years of engineering Payments, Agents, Mobile Apps, Websites, DevOps + MLOps Systems
+- [Distributed systems engineer with 10+ years of engineering Payments, Agents, Mobile Apps, Websites, DevOps + MLOps Systems](<https://ryan.zernach.com/portfolio>)
 - [Scaled CellarChat™ tool-calling agent to 1M+ active members, complete with RLHF & CI/CD LLM evaluation scoring pipelines](<https://ryan.zernach.com/portfolio/cellartracker>)
 - [Engineered Apple Pay subscriptions to lift recurring revenue by 25%+ which lifted mobile app ratings to 4.9★ (10k+ reviews)](<https://ryan.zernach.com/portfolio/cellartracker>)
-- [Completed Gauntlet AI engineering fellowship with 2% acceptance rate and mastered the art of agentic AI](<https://ryan.zernach.com/portfolio/gauntlet-ai>) orchestration
-- [Designed observable backend systems that support autonomous AI-powered VoIP eCommerce payment ](<https://ryan.zernach.com/portfolio/landscape-supply>)automations
+- [Completed Gauntlet AI engineering fellowship with 2% acceptance rate and mastered the art of agentic AI orchestration](<https://ryan.zernach.com/portfolio/gauntlet-ai>)
+- [Designed observable backend systems that support autonomous AI-powered VoIP eCommerce payment automations](<https://ryan.zernach.com/portfolio/landscape-supply>)
 - [Awarded Top 10 of 10,000 international projects in 2024 NASA Space Apps hackathon with AI Voice Assistant](<https://ryan.zernach.com/portfolio/grow-ai-voice-assistant-for-nasa-space-apps-2024-hackathon>)
 ## TECH STACK
 
