@@ -2,16 +2,16 @@
 Ryan@Zernach.com • Ryan.Zernach.com • LinkedIn • GitHub • Remote • 10+ Years Engineering
 
 TECH STACK
-Programming Languages TypeScript, Python, Rust, Golang, Java, C#, Ruby, Swift, Kotlin, Bash, JavaScript, PHP, C++, Objective-C, R, Solidity, Dart, Flutter, XML
-AI/ML Systems LLMOps, RAG, Agents, MCP, Evaluations, Semantic Kernel, LangChain, Langfuse, ML Pipelines, Computer Vision, Vector Search, Embeddings, PyTorch, Knowledge Graphs, TensorFlow, Scikit-Learn
-Platform & Backend Engineering DevEx, Node.js, FastAPI, Nest.js, Express, .NET Core, Microservices, OpenAPI, REST, GraphQL, WebSockets, Webhooks, gRPC, Django, Kafka
-Data & Persistence PostgreSQL, SQL, NoSQL, Redis, Vector Databases, ETL, Snowflake, Graph Databases, Entity Relationships, Caching, BigQuery, PySpark
-Cloud Infrastructure & DevOps AWS, Azure, GCP, Cloudflare, Docker, GitHub Actions, Terraform, Kubernetes, CI/CD, CloudOps, Monitoring, DNS, Networking
-Front-End & Product Engineering iOS, Android, Web, Swift, Kotlin, React, React Native, Flutter, Expo Router, Next.js, Redux, Streamlit, Animations, Design, User Feedback
-Distributed Systems & Operations Queues, Redis, RabbitMQ, Analytics, Pub/Sub, Linux, Airflow, Event-Driven Architecture, VoIP, Observability, Admin Systems, WebRTC, Rate Limiting, Horizontal Scaling, Load Balancing, Cron
-Security, Identity & Compliance AuthN, AuthZ, OAuth, SOC 2, Identity, Role-Based Access Control, JWT, Secure Systems Design, SSO, API Security, Secrets Management
-Payments, Communications & Integrations Stripe, Apple Pay, IAP, Billing, Subscriptions, Wallets, Twilio, SMS, Push Notifications, HTTP APIs, Marketing Tech, Email SMTP/IMAP
-Blockchain & Web3 Ethereum, Solana, dApps, WalletConnect, MetaMask, Polygon, Solidity, Smart Contracts, Ethers.js, Tokens, ERC-20, ERC-721
+Programming Languages: TypeScript, Python, Rust, Golang, Java, C#, Ruby, Swift, Kotlin, Bash, JavaScript, PHP, C++, Objective-C, R, Solidity, Dart, Flutter, XML
+AI/ML Systems: LLMOps, RAG, Agents, MCP, Evaluations, Semantic Kernel, LangChain, Langfuse, ML Pipelines, Computer Vision, Vector Search, Embeddings, PyTorch, Knowledge Graphs, TensorFlow, Scikit-Learn
+Platform & Backend Engineering: DevEx, Node.js, FastAPI, Nest.js, Express, .NET Core, Microservices, OpenAPI, REST, GraphQL, WebSockets, Webhooks, gRPC, Django, Kafka
+Data & Persistence: PostgreSQL, SQL, NoSQL, Redis, Vector Databases, ETL, Snowflake, Graph Databases, Entity Relationships, Caching, BigQuery, PySpark
+Cloud Infrastructure & DevOps: AWS, Azure, GCP, Cloudflare, Docker, GitHub Actions, Terraform, Kubernetes, CI/CD, CloudOps, Monitoring, DNS, Networking
+Front-End & Product Engineering: iOS, Android, Web, Swift, Kotlin, React, React Native, Flutter, Expo Router, Next.js, Redux, Streamlit, Animations, Design, User Feedback
+Distributed Systems & Operations: Queues, Redis, RabbitMQ, Analytics, Pub/Sub, Linux, Airflow, Event-Driven Architecture, VoIP, Observability, Admin Systems, WebRTC, Rate Limiting, Horizontal Scaling, Load Balancing, Cron
+Security, Identity & Compliance: AuthN, AuthZ, OAuth, SOC 2, Identity, Role-Based Access Control, JWT, Secure Systems Design, SSO, API Security, Secrets Management
+Payments, Communications & Integrations: Stripe, Apple Pay, IAP, Billing, Subscriptions, Wallets, Twilio, SMS, Push Notifications, HTTP APIs, Marketing Tech, Email SMTP/IMAP
+Blockchain & Web3: Ethereum, Solana, dApps, WalletConnect, MetaMask, Polygon, Solidity, Smart Contracts, Ethers.js, Tokens, ERC-20, ERC-721
 
 EXPERIENCE
 Fractional AI Systems Engineer • United States • Remote	Jul 2025 - Present

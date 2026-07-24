@@ -10,16 +10,16 @@ HIGHLIGHTS
 - Awarded Top 10 of 10,000 international projects in 2024 NASA Space Apps hackathon with AI Voice Assistant
 
 TECH STACK
-Programming Languages TypeScript, Python, Rust, Golang, Java, C#, Ruby, Swift, Kotlin, Bash, JavaScript, PHP, C++, Objective-C, R, Solidity, Dart, Flutter, XML
-AI Systems & Machine Learning LLMOps, vLLM, LiteLLM, RAG, Agents, MCP, Vector Embeddings, Evaluations, Semantic Kernel, LangChain, Langfuse, Computer Vision, PyTorch, Knowledge Graphs, TensorFlow, Scikit-Learn, Bedrock, Foundry
-Platform & Backend Engineering DevEx, Node.js, FastAPI, Django, Nest.js, Express, .NET Core, OpenAPI, Microservices, REST, GraphQL, WebSockets, Webhooks, gRPC, Kafka
-Data & Persistence PostgreSQL, SQL, NoSQL, Redis, Vector Databases, ETL, Snowflake, Graph Databases, Entity Relationships, Caching, BigQuery, PySpark
-Cloud Infrastructure & DevOps AWS, Azure, GCP, Cloudflare, Docker, GitHub Actions, Terraform, Kubernetes, CI/CD, CloudOps, Blue/Green, DNS, Networking
-Front-End & Product Engineering React, React Native, iOS, Android, Web, Swift, Kotlin, Flutter, Expo Router, Next.js, Redux, Streamlit, Animations, Design, User Feedback, Playwright
-Distributed Systems & Operations Queues, Redis, RabbitMQ, Analytics, Pub/Sub, Linux, Airflow, VoIP, Cron, WebRTC, Observability, OpenTelemetry, Rate Limiting, Horizontal Scaling, Machine Learning CI/CD, Event-Driven Architecture, Load Balancing
-Security, Identity & Compliance AuthN, AuthZ, OAuth, SOC 2, Identity, Role-Based Access Control, JWT, Secure Systems Design, SSO, API Security, Secrets Management
-Payments, Communications & Integrations PCI Compliance, Stripe, Apple Pay, IAP, Billing, Subscriptions, Wallets, Twilio, SMS, Push Notifications, HTTP APIs, Marketing Tech, SMTP/IMAP
-Blockchain & Web3 Ethereum, Solana, dApps, WalletConnect, MetaMask, Polygon, Solidity, Smart Contracts, Ethers.js, Tokens, ERC-20, ERC-721
+Programming Languages: TypeScript, Python, Rust, Golang, Java, C#, Ruby, Swift, Kotlin, Bash, JavaScript, PHP, C++, Objective-C, R, Solidity, Dart, Flutter, XML
+AI Systems & Machine Learning: LLMOps, vLLM, LiteLLM, RAG, Agents, MCP, Vector Embeddings, Evaluations, Semantic Kernel, LangChain, Langfuse, Computer Vision, PyTorch, Knowledge Graphs, TensorFlow, Scikit-Learn, Bedrock, Foundry
+Platform & Backend Engineering: DevEx, Node.js, FastAPI, Django, Nest.js, Express, .NET Core, OpenAPI, Microservices, REST, GraphQL, WebSockets, Webhooks, gRPC, Kafka
+Data & Persistence: PostgreSQL, SQL, NoSQL, Redis, Vector Databases, ETL, Snowflake, Graph Databases, Entity Relationships, Caching, BigQuery, PySpark
+Cloud Infrastructure & DevOps: AWS, Azure, GCP, Cloudflare, Docker, GitHub Actions, Terraform, Kubernetes, CI/CD, CloudOps, Blue/Green, DNS, Networking
+Front-End & Product Engineering: React, React Native, iOS, Android, Web, Swift, Kotlin, Flutter, Expo Router, Next.js, Redux, Streamlit, Animations, Design, User Feedback, Playwright
+Distributed Systems & Operations: Queues, Redis, RabbitMQ, Analytics, Pub/Sub, Linux, Airflow, VoIP, Cron, WebRTC, Observability, OpenTelemetry, Rate Limiting, Horizontal Scaling, Machine Learning CI/CD, Event-Driven Architecture, Load Balancing
+Security, Identity & Compliance: AuthN, AuthZ, OAuth, SOC 2, Identity, Role-Based Access Control, JWT, Secure Systems Design, SSO, API Security, Secrets Management
+Payments, Communications & Integrations: PCI Compliance, Stripe, Apple Pay, IAP, Billing, Subscriptions, Wallets, Twilio, SMS, Push Notifications, HTTP APIs, Marketing Tech, SMTP/IMAP
+Blockchain & Web3: Ethereum, Solana, dApps, WalletConnect, MetaMask, Polygon, Solidity, Smart Contracts, Ethers.js, Tokens, ERC-20, ERC-721
 
 EXPERIENCE
 Independent Full-Stack AI Systems Engineer • USA • Remote	July 2025 - Present
