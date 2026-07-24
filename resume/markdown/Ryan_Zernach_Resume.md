@@ -4,8 +4,7 @@
 
 ### Agentic Infrastructure & Product Engineering
 
-[Portfolio](<https://ryan.zernach.com>): Ryan.Zernach.com • [Email](<mailto:Ryan@Zernach.com>): Ryan@Zernach.com<br>
-[LinkedIn ](<https://linkedin.com/in/zernach/>)• [GitHub](<https://github.com/zernach>) • Remote • Healthcare • FinTech
+[<em>Portfolio: </em>](<https://ryan.zernach.com>)[<strong>Ryan.Zernach.com</strong>](<https://ryan.zernach.com>)[<em> •</em>](<https://ryan.zernach.com>)<em> Email: </em><em>Ryan@Zernach.com</em>[<em> •</em>](<https://ryan.zernach.com>)[<em>LinkedIn </em>](<https://linkedin.com/in/zernach/>)<em>• </em>[<em>GitHub</em>](<https://github.com/zernach>)<em> • Remote • Healthcare • FinTech</em>
 
 [![image](https://github.com/user-attachments/assets/5d4bfd76-0893-43a4-81b1-f83bee35bc11)](https://ryan.zernach.com/)
 
