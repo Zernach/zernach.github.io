@@ -20,7 +20,7 @@ Ryan@Zernach.com[ • Ryan.Zernach.com •](<https://ryan.zernach.com>) [LinkedI
 
 ### Fractional AI Systems Engineer • United States • Remote Jul 2025 - Present
 
-- [Building full-stack AI-enabled products & secure automation systems across agents, semantic intelligence, OSS, and ](<https://ryan.zernach.com/goals/healthcare>)now focused on healthcare
+- Building full-stack AI-enabled products & secure automation systems across agents, semantic intelligence, OSS, and now focused on healthcare
 
 ### Senior AI Systems Engineer • CellarTracker • Seattle • Remote Aug 2023 - Jul 2025
 
