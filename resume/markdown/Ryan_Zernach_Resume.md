@@ -4,7 +4,7 @@
 
 ### Agentic Infrastructure & Product Engineering
 
-[<em>Portfolio: </em>](<https://ryan.zernach.com>)[<strong>Ryan.Zernach.com</strong>](<https://ryan.zernach.com>) •<em> Email: </em><em>Ryan@Zernach.com</em> •[<em>LinkedIn </em>](<https://linkedin.com/in/zernach/>)<em>• </em>[<em>GitHub</em>](<https://github.com/zernach>)<em> • Remote • Healthcare • FinTech</em>
+[<em>Portfolio: </em>](<https://ryan.zernach.com>)[<strong>Ryan.Zernach.com</strong>](<https://ryan.zernach.com>)[<em> •</em>](<https://ryan.zernach.com>)<em> Email: </em><em>Ryan@Zernach.com</em>[<em> •</em>](<https://ryan.zernach.com>)[<em>LinkedIn </em>](<https://linkedin.com/in/zernach/>)<em>• </em>[<em>GitHub</em>](<https://github.com/zernach>)<em> • Remote • FinTech</em>
 ## HIGHLIGHTS
 
 - [Distributed systems engineer with 10+ years of engineering Payments, Agents, Mobile Apps, Websites, DevOps + MLOps Systems](<https://ryan.zernach.com/portfolio>)
