@@ -55,7 +55,7 @@
 
 ### [Full-Stack Mobile Engineer ](<https://ryan.zernach.com/portfolio/archlife-industries>)[• ](<https://ryan.zernach.com/portfolio/cellartracker>)[Archlife Industries Software](<https://ryan.zernach.com/portfolio/archlife-industries>)[ • Miami • Remote](<https://ryan.zernach.com/portfolio/archlife-industries>)[ ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Sept 2021 - Aug 2023](<https://ryan.zernach.com/portfolio/archlife-industries>)
 
-- Delivered eTrading stocks/crypto exchange to compete with Robinhood: public leaderboards + copy friend’s portfolio distribution
+- Productionized stocks/crypto exchange to compete with Robinhood: public leaderboards + copy friend’s portfolio distribution
 - Used AWS Terraform to deploy docker container running, Java + Springboot, & NodeJS dashboards, and SQL migrations
 - Constructed core mobile app functionality, including: Plaid connections, trending investors, & suggested stocks
 - Built social network features, such as direct chat, user profiles, posts, likes, emojis, & threaded comments
@@ -70,7 +70,7 @@
 - Managed busy schedule of remotely teaching 30+ university students per week in 1:1 setting (one hour per person)
 - Dozens of universities were subscribed to my employer’s curriculum and online tutoring resources for students
 
-### [React Web Developer + Landscape Architect](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[Georgia Hybrid Landscaping](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[Alpharetta, Georgia ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[ ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[Feb 2013 – Jan 2019](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)
+### [Full-Stack React Web Developer ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[• ](<https://ryan.zernach.com/portfolio/cellartracker>)[Georgia Hybrid Landscaping](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[Alpharetta, Georgia ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[ ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[Oct 2015 – Jan 2019](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)
 
 - Engineered uploading videos/images, survey questions, pricing proposals, & processing payments via Java + Spring Boot
 - Migrated websites from PHP to NodeJS React, which successfully processed $500k+ gross sales in three years
