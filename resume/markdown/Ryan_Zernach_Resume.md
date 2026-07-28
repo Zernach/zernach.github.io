@@ -50,8 +50,8 @@
 - Implemented PyTorch OCR image-to-text search, high-performance barcode scanning, and activity feed posts
 - Streamlined the Redux store for fast, efficient, and persistent global state management between app sessions
 - Rebuilt the React Native app’s analytics implementations for tracking critical user interactions and in-app behavior
-- Migrated 25+ years legacy support ticket system from Active Server Pages (ASP) to TypeScript Express framework
 - Arranged A/B tests during paywall & onboarding experiences using phased rollout schedules for marketing analysis
+- Migrated 25+ year old legacy support ticket system from Active Server Pages (ASP) to TypeScript Express framework
 
 ### [Full-Stack Mobile Engineer ](<https://ryan.zernach.com/portfolio/archlife-industries>)[• ](<https://ryan.zernach.com/portfolio/cellartracker>)[Archlife Industries Software](<https://ryan.zernach.com/portfolio/archlife-industries>)[ • Miami • Remote](<https://ryan.zernach.com/portfolio/archlife-industries>)[ ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Sept 2021 - Aug 2023](<https://ryan.zernach.com/portfolio/archlife-industries>)
 
