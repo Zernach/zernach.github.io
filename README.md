@@ -73,13 +73,13 @@
 - Managed busy schedule of remotely teaching 30+ university students per week in 1:1 setting (one hour per person)
 - Dozens of universities were subscribed to my employer’s curriculum and online tutoring resources for students
 
-### [Full-Stack React Web Developer ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[• ](<https://ryan.zernach.com/portfolio/cellartracker>)[Georgia Hybrid Landscaping](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[Alpharetta, Georgia ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[ ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[Oct 2015 – Jan 2019](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)
+### [React Web Developer + Landscape Designer ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[• ](<https://ryan.zernach.com/portfolio/cellartracker>)[Georgia Hybrid Landscaping](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[Alpharetta, Georgia ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[ ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[Feb 2013 – Jan 2019](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)
 
 - Engineered uploading videos/images, survey questions, pricing proposals, & processing payments via Java + Spring Boot
-- Migrated websites from PHP to NodeJS React, which successfully processed $500k+ gross sales in three years
+- Migrated websites from PHP to NodeJS React, which successfully processed $100k+ gross sales in three years
 - Managed online eCommerce payments, visitor analytics, Google AdSpend, and email marketing campaigns
 - Configured automated, outbound marketing email campaign schedulers & listeners using IMAP/POP
-- Setup observability dashboards for payments, marketing, analytics, API logs, & admin
+- Setup observability dashboard for payments, marketing, analytics, and financial workflows
 
 ### [Payments Systems Intern (Card Processing)](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Cost Plus Processing](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Alpharetta, Georgia ](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)[ ](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)[Sept 2012 – Jan 2013](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)
 
