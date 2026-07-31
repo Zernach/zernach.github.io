@@ -75,11 +75,12 @@
 
 ### [React Web Developer + Landscape Designer ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[• ](<https://ryan.zernach.com/portfolio/cellartracker>)[Georgia Hybrid Landscaping](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[Alpharetta, Georgia ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[ ](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)[Feb 2013 – Jan 2019](<https://ryan.zernach.com/portfolio/georgia-hybrid-landscaping>)
 
-- Engineered uploading videos/images, survey questions, pricing proposals, & processing payments via Java + Spring Boot
-- Migrated websites from PHP to NodeJS React, which successfully processed $100k+ gross sales in three years
-- Managed online eCommerce payments, visitor analytics, Google AdSpend, and email marketing campaigns
-- Configured automated, outbound marketing email campaign schedulers & listeners using IMAP/POP
-- Setup observability dashboard for payments, marketing, analytics, and financial workflows
+- Engineered uploading videos/images, survey questions, pricing proposals, and processing payments with BrainTree
+- Migrated websites from PHP to NodeJS React, which helped the business process more than $1M+ gross sales
+- Managed online eCommerce payments, analytics, Google AdSpend, and logistics of bulk material deliveries
+- Configured automated, outbound marketing email campaign schedulers and listeners using IMAP/POP
+- Designed industry-best customer experiences with 2D/3D graphic designs and optional add-ons
+- Designed residential and commercial landscape plans for hardscapes, lighting, drainage, plants
 
 ### [Payments Systems Intern (Card Processing)](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Cost Plus Processing](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Alpharetta, Georgia ](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)[ ](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)[Sept 2012 – Jan 2013](<https://ryan.zernach.com/portfolio/cost-plus-processing-payments>)
 
