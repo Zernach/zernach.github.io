@@ -34,7 +34,7 @@
 
 - Building agentic products and back-end systems across Python, Typescript, vector embeddings + OSS large-language models
 - Automated eCommerce marketplace responsibilities using Twilio VoIP, realtime voice agents + DALL-E image generations
-- Dockerized scalable Robotic Process Automation (RPA) via Kubernetes, local vLLM inferences, and agentic web-scraping
+- Containerized scalable Robotic Process Automation (RPA) via local agentic web-scraping, vLLM inferences + Kubernetes
 - Published TranslateWallpaper, a cross-platform mobile app to make LLM-powered language-learning wallpapers images
 
 ### [Senior Full-Stack AI Systems Engineer](<https://ryan.zernach.com/portfolio/cellartracker>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[CellarTracker](<https://ryan.zernach.com/portfolio/cellartracker>)[ • Seattle • Remote ](<https://ryan.zernach.com/portfolio/cellartracker>)[Aug 2023 - Jul 2025](<https://ryan.zernach.com/portfolio/cellartracker>)
@@ -86,10 +86,10 @@
 - Built foundational knowledge of secure payment infrastructure, interchange fees, & transaction routing
 ## EDUCATION & TRAINING
 
-### [AI Engineering Fellowship (G3)](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Gauntlet AI](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Remote](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Austin, TX ](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ ](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[2025](<https://ryan.zernach.com/portfolio/gauntlet-ai>)
+### [AI Engineering Fellowship + Accelerator (G3)](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Gauntlet AI](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Remote](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Austin, TX ](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ ](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[2025](<https://ryan.zernach.com/portfolio/gauntlet-ai>)
 
 - Mastered how to command agents, automate workflows, and 100x enterprise-grade software engineering
-- Harnessed the power of RAG, multi-agent systems, OpenAPI, and MCP to build agentic automations
+- Harnessed the power of RAG, multi-agent systems, OpenAPI, MCP, Cursor, Claude, Codex, vLLM
 
 ### [Data Science & Machine Learning Bootcamp](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Lambda School](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Y Combinator](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Remote ](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[ ](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)[2020](<https://ryan.zernach.com/portfolio/lambda-school-bloomtech>)
 
