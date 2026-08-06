@@ -20,7 +20,7 @@
 | Programming Languages                   | TypeScript, Python, Rust, Golang, Java, C#, Ruby, Swift, Kotlin, Bash, JavaScript, PHP, C++, Objective-C, R, Solidity, Dart, Flutter, XML                                                                           |
 | AI Systems + Machine Learning           | LLMOps, vLLM, LiteLLM, RAG, Agents, MCP, Vector Embeddings, Evaluations, Semantic Kernel, LangChain, Langfuse, Computer Vision, PyTorch, Knowledge Graphs, TensorFlow, Scikit-Learn, Bedrock, Foundry               |
 | Platform + Backend Engineering          | DevEx, Node.js, FastAPI, Django, Nest.js, Express, .NET Core, OpenAPI, Microservices, REST, GraphQL, WebSockets, Webhooks, gRPC, Kafka                                                                              |
-| Data & Persistence                      | PostgreSQL, SQL, NoSQL, Redis, Vector Databases, ETL, Snowflake, Graph Databases, Entity Relationships, Caching, BigQuery, PySpark                                                                                  |
+| Data + Persistence                      | PostgreSQL, SQL, NoSQL, Redis, Vector Databases, ETL, Snowflake, Graph Databases, Entity Relationships, Caching, BigQuery, PySpark                                                                                  |
 | Cloud Infrastructure + DevOps           | AWS, Azure, GCP, Cloudflare, Docker, GitHub Actions, Terraform, Kubernetes, CI/CD, CloudOps, Blue/Green, DNS, Networking                                                                                            |
 | Front-End + Product Engineering         | React, React Native, iOS, Android, Web, Swift, Kotlin, Flutter, Expo Router, Next.js, Redux, Streamlit, Animations, Design, User Feedback, Playwright                                                               |
 | Distributed Systems + Operations        | Queues, Redis, RabbitMQ, Analytics, Pub/Sub, Linux, Airflow, VoIP, Cron, WebRTC, Observability, OpenTelemetry, Rate Limiting, Horizontal Scaling, Machine Learning CI/CD, Event-Driven Architecture, Load Balancing |
@@ -84,8 +84,7 @@
 - Worked with merchant processing systems & payment gateways to understand PCI compliance and financial flows
 - Analyzed end-to-end card transaction lifecycles (interchange rates, risk) across critical payment networks
 - Built foundational knowledge of secure payment infrastructure, interchange fees, & transaction routing
-## EDUCATION & TRAINING
-
+EDUCATION + TRAINING
 ### [AI Engineering Fellowship + Accelerator (G3)](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Gauntlet AI](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Remote](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ • ](<https://ryan.zernach.com/portfolio/archlife-industries>)[Austin, TX ](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[ ](<https://ryan.zernach.com/portfolio/gauntlet-ai>)[2025](<https://ryan.zernach.com/portfolio/gauntlet-ai>)
 
 - Mastered how to command agents, automate workflows, and 100x enterprise-grade software engineering
