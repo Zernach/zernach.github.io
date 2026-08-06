@@ -57,7 +57,7 @@
 
 - Productionized stocks/crypto exchange to compete with Robinhood: public leaderboards + copy friend’s portfolio distribution
 - Used AWS Terraform to deploy docker container running, Java + Springboot, & NodeJS dashboards, and SQL migrations
-- Constructed core mobile app functionality, including: Plaid connections, trending investors, & suggested stocks
+- Constructed core mobile app functionality: Plaid integration middleware, trending investors + suggested stocks
 - Built social network features, such as direct chat, user profiles, posts, likes, emojis, & threaded comments
 - Wrote the data-visualization logic for viewing and comparing the performance of different stocks/crypto
 - Transitioned eSports React Native codebase from JavaScript to TypeScript for long-term maintainability
