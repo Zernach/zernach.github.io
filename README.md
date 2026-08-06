@@ -37,7 +37,7 @@
 
 - Building agentic products and back-end systems across Python, Typescript, vector embeddings + OSS large-language models
 - Automated eCommerce marketplace by using MCP, Claude/ChatGPT integration, Twilio VoIP realtime voice agents + DALL-E
-- Containerized scalable Robotic Process Automation (RPA) via remote middleware, local vLLM, web scraping + Kubernetes
+- Containerized scalable Robotic Process Automation (RPA) via OpenAPI middleware, local vLLM, web scraping + Kubernetes
 - Published TranslateWallpaper, a cross-platform mobile app to make LLM-powered language-learning wallpapers images
 
 ### [Senior Full-Stack AI Systems Engineer](<https://ryan.zernach.com/portfolio/cellartracker>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[CellarTracker](<https://ryan.zernach.com/portfolio/cellartracker>)[ • Seattle • Remote ](<https://ryan.zernach.com/portfolio/cellartracker>)[Aug 2023 - Jul 2025](<https://ryan.zernach.com/portfolio/cellartracker>)
