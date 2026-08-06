@@ -51,7 +51,7 @@
 - Developed backend Python MCP server supporting agentic tooling, account management + support tickets
 - Improved user’s experience of cellar management CRUD workflows to improve consistency and reduce taps
 - Implemented PyTorch OCR image-to-text search, high-performance barcode scanning, and activity feed posts
-- Streamlined the Redux store for fast, efficient, and persistent global state management between app sessions
+- Streamlined the Redux middleware for fast global state management and persistence between user app sessions
 - Rebuilt the React Native app’s analytics implementations for tracking critical user interactions and in-app behavior
 - Arranged A/B tests during paywall & onboarding experiences using phased rollout schedules for marketing analysis
 - Migrated 25+ year old legacy support ticket system from Active Server Pages (ASP) to TypeScript Express framework
