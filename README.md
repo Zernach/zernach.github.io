@@ -13,7 +13,7 @@
 - [Distributed systems engineer with 10+ years of engineering Payments, Agents, Mobile Apps, Websites, DevOps + MLOps Systems](<https://ryan.zernach.com/portfolio>)
 - [Scaled CellarChat™ tool-calling agent to 1M+ active members, complete with RLHF & CI/CD LLM evaluation scoring pipelines](<https://ryan.zernach.com/portfolio/cellartracker>)
 - [Engineered Apple Pay subscriptions to lift recurring revenue by 25%+ which lifted mobile app ratings to 4.9★ (10k+ reviews)](<https://ryan.zernach.com/portfolio/cellartracker>)
-- [Completed Gauntlet AI engineering fellowship with 2% acceptance rate and mastered the art of agentic AI orchestration](<https://ryan.zernach.com/portfolio/gauntlet-ai>)
+- [Completed Gauntlet AI engineering fellowship with 2% acceptance rate and mastered the art of ](<https://ryan.zernach.com/portfolio/gauntlet-ai>)Cursor, Claude + Codex
 - [Designed observable backend systems that support autonomous AI-powered VoIP eCommerce payment automations](<https://ryan.zernach.com/portfolio/landscape-supply>)
 - [Awarded Top 10 of 10,000 international projects in 2024 NASA Space Apps hackathon with AI Voice Assistant](<https://ryan.zernach.com/portfolio/grow-ai-voice-assistant-for-nasa-space-apps-2024-hackathon>)
 ## TECH STACK
@@ -36,8 +36,8 @@
 ### [Independent Full-Stack AI Systems Engineer • USA • Remote July 2025 - Present](<https://ryan.zernach.com/portfolio>)
 
 - Building agentic products and back-end systems across Python, Typescript, vector embeddings + OSS large-language models
-- Automated eCommerce marketplace responsibilities using Twilio VoIP, realtime voice agents + DALL-E image generations
-- Containerized scalable Robotic Process Automation (RPA) via local agentic web-scraping, vLLM inferences + Kubernetes
+- Automated eCommerce marketplace by using MCP, Claude/ChatGPT integration, Twilio VoIP realtime voice agents + DALL-E
+- Containerized scalable Robotic Process Automation (RPA) via remote middleware, local vLLM, web scraping + Kubernetes
 - Published TranslateWallpaper, a cross-platform mobile app to make LLM-powered language-learning wallpapers images
 
 ### [Senior Full-Stack AI Systems Engineer](<https://ryan.zernach.com/portfolio/cellartracker>)[ • ](<https://ryan.zernach.com/portfolio/cellartracker>)[CellarTracker](<https://ryan.zernach.com/portfolio/cellartracker>)[ • Seattle • Remote ](<https://ryan.zernach.com/portfolio/cellartracker>)[Aug 2023 - Jul 2025](<https://ryan.zernach.com/portfolio/cellartracker>)
@@ -48,7 +48,7 @@
 - Maintained Python, TypeScript, React Native, C#/.NET, SQL, Redis, CI/CD, Azure AI Foundry + PromptFlow
 - Helped to boost app store ratings to 4.9★ average with 10,000+ verified 5-star ratings on iOS and Android
 - Embedded Apple Pay subscriptions in the React Native app to generate additional 25%+ recurring revenue
-- Developed backend Python systems supporting agentic workflows, support tickets, & account management
+- Developed backend Python MCP server supporting agentic tooling, account management + support tickets
 - Improved user’s experience of cellar management CRUD workflows to improve consistency and reduce taps
 - Implemented PyTorch OCR image-to-text search, high-performance barcode scanning, and activity feed posts
 - Streamlined the Redux store for fast, efficient, and persistent global state management between app sessions
